@@ -3,3 +3,4 @@
 - [Fibonacci Sequence](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Fibonacci_Sequence)
 - [ROT13 Encoder](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Rot13)
 - [Palindrome Checker](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Palindrome)
+- [Fizz Buzz](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Fizz_Buzz)
