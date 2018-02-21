@@ -5,3 +5,4 @@
 - [Palindrome Checker](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Palindrome)
 - [Fizz Buzz](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Fizz_Buzz)
 - [Pig Latin](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Pig_Latin)
+- [Pangram Checker](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Pangram)
