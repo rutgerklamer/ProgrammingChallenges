@@ -9,7 +9,7 @@ Example:
 | preview | eviewpray |
 | banana  | ananabay  |
 
-Widipedia for [Further info](https://nl.wikipedia.org/wiki/Pig_Latin)
+Widipedia for [Further info](https://en.wikipedia.org/wiki/Pig_Latin)
 
 Compiling on Linux/Windows/Mac OS X
   - g++ main.cpp
