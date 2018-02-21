@@ -3,10 +3,10 @@ A magic square is a rectangular grid where every row adds up to the same number.
 
 example:
 
-| 2   | 9   | 4        |  Sum: 15 |
+| 2   |  7  | 6        |  Sum: 15 |
 | :-: | :-: | :-:      | :-:      |
-|  3  |  5  |  7       |  Sum: 15 |
-| 8   | 1   | 6        |  Sum: 15 |
+| 9   |  5  | 1        |  Sum: 15 |
+| 4   |  3  | 8        |  Sum: 15 |
 | Sum: 15   |  Sum: 15 |  Sum: 15 | 
 
 Compiling on Linux/Windows/Mac OS X
