@@ -9,6 +9,8 @@ example:
 | 4   |  3  | 8        |  Sum: 15 |
 | Sum: 15   |  Sum: 15 |  Sum: 15 | 
 
+Wikipedia for [Further info](https://en.wikipedia.org/wiki/Magic_square)
+
 Compiling on Linux/Windows/Mac OS X
   - g++ main.cpp
   - Paste the source into your favorite IDE
