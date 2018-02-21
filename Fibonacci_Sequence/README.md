@@ -1,11 +1,7 @@
 # Fibonacci sequence
 The famous Fibonacci sequence
 
-To build follow these steps
-- Use g++ main.cpp
-
-Or
-- Paste source into your favorite IDE
-
-Or
-- Use your own preferred way of compiling
+Compiling on Linux/Windows/Mac OS X
+  - g++ main.cpp
+  - Paste the source into your favorite IDE
+  - Use another preferred way of compiling
