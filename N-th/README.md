@@ -3,17 +3,17 @@ This program prints the right suffix for a given number
 
 Example:
 
-| output |
-|  :-:   |
-|   1st  |
-|   2nd  |
-|   3rd  |
-|   4th  |
-|  ....  |
-|   1001st  |
-|   1002nd  |
-|   1003rd  |
-|   1004th  |
+|input| output |
+|:-:|  :-:   |
+|1|   1st  |
+|2|   2nd  |
+|3|   3rd  |
+|4|   4th  |
+|....|  ....  |
+|1001|   1001st  |
+|1002|   1002nd  |
+|1003|   1003rd  |
+|1004|   1004th  |
 
 Wikipedia for [Further info](https://en.wikipedia.org/wiki/Ordinal_number_(linguistics))
 
