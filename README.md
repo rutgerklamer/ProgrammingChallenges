@@ -9,3 +9,4 @@ Given in the order in which I made them
 - [Pangram Checker](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Pangram)
 - [Magic Square Odd](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Magic_Square_Odd)
 - [N'th](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/N-th)
+- [Palindrome Number](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Palindrome_Number)
