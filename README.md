@@ -11,4 +11,5 @@ Given in the order in which I made them
 - [N'th](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/N-th)
 - [Palindrome Number](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Palindrome_Number)
 - [Monty Hall Problem](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Monty_Hall_Problem)
+- [Bulls and Cows](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Bulls_Cows)
 
