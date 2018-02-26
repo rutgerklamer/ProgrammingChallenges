@@ -12,6 +12,8 @@ Example:
 
 Wikipedia for [Further info](https://en.wikipedia.org/wiki/99_Bottles_of_Beer)
 
+Rosetta code for [Further info](http://rosettacode.org/wiki/99_Bottles_of_Beer)
+
 Compiling on Linux/Windows/Mac OS X
   - g++ main.cpp
   - Paste the source into your favorite IDE
