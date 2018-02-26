@@ -12,5 +12,5 @@ Given in the order in which I made them
 - [Palindrome Number](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Palindrome_Number)
 - [Monty Hall Problem](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Monty_Hall_Problem)
 - [Bulls and Cows](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Bulls_Cows)
-- [Run-length encoding] (https://github.com/rutgerklamer/ProgrammingChallenges)
+- [Run-length encoding](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/RLE)
 
