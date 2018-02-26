@@ -17,6 +17,8 @@ Example:
 
 Wikipedia for [Further info](https://en.wikipedia.org/wiki/Ordinal_number_(linguistics))
 
+Rosetta code for [Further info](http://rosettacode.org/wiki/N%27th)
+
 Compiling on Linux/Windows/Mac OS X
   - g++ main.cpp
   - Paste the source into your favorite IDE
