@@ -11,6 +11,8 @@ example:
 
 Wikipedia for [Further info](https://en.wikipedia.org/wiki/Magic_square)
 
+Rosetta code for [Further info](http://rosettacode.org/wiki/Magic_squares_of_odd_order)
+
 Compiling on Linux/Windows/Mac OS X
   - g++ main.cpp
   - Paste the source into your favorite IDE
