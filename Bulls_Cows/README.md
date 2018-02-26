@@ -15,6 +15,8 @@ Example:
 
 Wikipedia for [Further info](https://en.wikipedia.org/wiki/Bulls_and_Cows)
 
+Rosetta code for [Further info](http://rosettacode.org/wiki/Bulls_and_cows)
+
 Compiling on Linux/Windows/Mac OS X
   - g++ main.cpp
   - Paste the source into your favorite IDE
