@@ -17,6 +17,8 @@ It's very interesting to see that switching leaves you with a much higher change
 
 Wikipedia for [Further info](https://en.wikipedia.org/wiki/Monty_Hall_problem)
 
+Rosetta code for [Further info](http://rosettacode.org/wiki/Monty_Hall_problem)
+
 Compiling on Linux/Windows/Mac OS X
   - g++ main.cpp
   - Paste the source into your favorite IDE
