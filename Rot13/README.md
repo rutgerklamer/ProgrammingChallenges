@@ -11,6 +11,8 @@ Example:
 
 Wikipedia for [Further info](https://en.wikipedia.org/wiki/ROT13)
 
+Rosetta code for [Further info](http://rosettacode.org/wiki/Rot-13)
+
 Compiling on Linux/Windows/Mac OS X
   - g++ main.cpp
   - Paste the source into your favorite IDE
