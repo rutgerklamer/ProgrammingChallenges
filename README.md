@@ -13,4 +13,5 @@ Given in the order in which I made them
 - [Monty Hall Problem](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Monty_Hall_Problem)
 - [Bulls and Cows](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Bulls_Cows)
 - [Run-length encoding](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/RLE)
+- [Population Count](https://github.com/rutgerklamer/ProgrammingChallenges/new/master/Population_count)
 
