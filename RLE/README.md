@@ -11,7 +11,7 @@ Example:
 
 Wikipedia for [Further info](https://nl.wikipedia.org/wiki/Run-length_encoding)
 
-Rosetta code for [Further info](http://rosettacode.org/wiki/Run-length_encoding#C.2B.2B)
+Rosetta code for [Further info](http://rosettacode.org/wiki/Run-length_encoding)
 
 Compiling on Linux/Windows/Mac OS X
   - g++ main.cpp
