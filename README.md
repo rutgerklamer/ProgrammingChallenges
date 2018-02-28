@@ -14,4 +14,5 @@ Given in the order in which I made them
 - [Bulls and Cows](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Bulls_Cows)
 - [Run-length encoding](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/RLE)
 - [Population Count](https://github.com/rutgerklamer/ProgrammingChallenges/new/master/Population_count)
+- [Old lady who swallowed a fly](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Old_lady_swallowed_a_fly)
 
