@@ -1,3 +1,5 @@
+#include <iostream>
+
 int main() {
 	int n = 9000;
 	bool hasOne = false;
