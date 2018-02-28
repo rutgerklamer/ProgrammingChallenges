@@ -16,4 +16,4 @@ Given in the order in which I made them
 - [Population Count](https://github.com/rutgerklamer/ProgrammingChallenges/new/master/Population_count)
 - [Old lady who swallowed a fly](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Old_lady_swallowed_a_fly)
 - [Comma Quibbling](https://github.com/rutgerklamer/ProgrammingChallenges/blob/master/Comma_quibbling)
-
+- [Binary Digits](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Binary_digits)
