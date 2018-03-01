@@ -17,3 +17,4 @@ Given in the order in which I made them
 - [Old lady who swallowed a fly](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Old_lady_swallowed_a_fly)
 - [Comma Quibbling](https://github.com/rutgerklamer/ProgrammingChallenges/blob/master/Comma_quibbling)
 - [Binary Digits](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Binary_digits)
+- [Bit Flipping Game](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Bitflipping_Game)
