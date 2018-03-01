@@ -11,21 +11,15 @@ int main() {
 		for (int i = 0; i < rand() % 5 + 5; i++)
 			target = flipRowColumn(ip[rand()%6], target);
 
-	std::cout << "STARTING: " << std::endl;
-	showTable(starting);
-	std::cout << "\n\nTARGET: " << std::endl;
-	showTable(target);
-
-
 	while (starting != target) {
-		char p = ' ';
-		while ((p > '2' || p < '0') && (p > 'c' || p < 'a'))
-			std::cin >> p;
-		starting = flipRowColumn(p, starting);
 		std::cout << "\n\nCURRENT: " << std::endl;
 		showTable(starting);
 		std::cout << "\n\nTARGET: " << std::endl;
 		showTable(target);
+		char p = ' ';
+		while ((p > '2' || p < '0') && (p > 'c' || p < 'a'))
+			std::cin >> p;
+		starting = flipRowColumn(p, starting);
 	}
 	return 0;
 }
@@ -51,12 +45,10 @@ int flipRowColumn(char p, int s)
 
 void showTable(int n) {
 	for (int i = 9; i >= 0; i--) {
-		if ((n & (1 << i)) == 0) {
+		if ((n & (1 << i)) == 0)
 			std::cout << 0 << std::flush;
-		}
-		else {
+		else
 			std::cout << 1 << std::flush;
-		}
 		if (i % 3 == 0 && i != 0)
 			std::cout << std::endl;
 	}
