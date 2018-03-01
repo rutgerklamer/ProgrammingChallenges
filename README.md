@@ -18,3 +18,4 @@ Given in the order in which I made them
 - [Comma Quibbling](https://github.com/rutgerklamer/ProgrammingChallenges/blob/master/Comma_quibbling)
 - [Binary Digits](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Binary_digits)
 - [Bit Flipping Game](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Bitflipping_Game)
+- [Thue_Morse](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Thue_Morse)
