@@ -13,7 +13,7 @@ int main() {
 
 	while (starting != target) {
 		char p = ' ';
-		while ((p > '0' || p < '2') && (p > 'c' || p < 'a'))
+		while ((p > '2' || p < '0') && (p > 'c' || p < 'a'))
 			std::cin >> p;
 
 		switch (p) {
