@@ -12,7 +12,7 @@ void randomChain();
 
 int main()
 {
-	std::fstream inf("main.ruc", std::ios::in);
+	std::fstream inf("input.txt", std::ios::in);
 	std::string rawprogram;
 	std::string line;
 	while (std::getline(inf, line)) 
