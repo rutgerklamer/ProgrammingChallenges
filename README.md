@@ -19,3 +19,4 @@ Given in the order in which I made them
 - [Binary Digits](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Binary_digits)
 - [Bit Flipping Game](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Bitflipping_Game)
 - [Thue_Morse](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Thue_Morse)
+- [Markov chain](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Markov_chain)
