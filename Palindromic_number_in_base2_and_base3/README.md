@@ -9,7 +9,6 @@ Example:
 | 1             |   1   |    1   |
 | 6643          | 1100111110011  | 100010001 |
 | 1422773       | 101011011010110110101  | 2200021200022 |
-etc|
 
 Wikipedia for [Further info](https://en.wikipedia.org/wiki/Bulls_and_Cowshttps://en.wikipedia.org/wiki/List_of_numeral_systems)
 
