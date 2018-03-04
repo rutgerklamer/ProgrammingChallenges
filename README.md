@@ -22,3 +22,4 @@ Given in the order in which I made them
 - [Markov chain](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Markov_chain)
 - [Palindromic Number Checker in base2 and base3](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Palindromic_number_in_base2_and_base3)
 - [Bubblesort](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Bubblesort)
+- [Bogosort](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Bogosort)
