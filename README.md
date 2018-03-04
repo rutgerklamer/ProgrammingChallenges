@@ -1,5 +1,9 @@
 # Programming Challenges
-Given in the order in which I made them
+This page is for small little programming challenges I think don't deserve a seperate github page so I've made this repository to store them in one collection.
+
+I've mainly used rosetta code for the challenges but I didn't always follow the specifications since I thought they were stupid or unnecessary.
+
+Here is a list given in the order in which I made them
 - [99 Bottles of Beer](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/99_Bottles_of_Beer)
 - [Fibonacci Sequence](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Fibonacci_Sequence)
 - [ROT13 Encoder](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Rot13)
