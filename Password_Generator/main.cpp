@@ -9,6 +9,7 @@ int main()
 	int pssmnt = 4;
 	if (psslngth < 4)
 		return 1;
+	srand(1023);
 	bool usedCHARS[] = { false,false,false,false };
 	for (int j = 0; j < pssmnt; j++) {
 		std::string psswrd;
