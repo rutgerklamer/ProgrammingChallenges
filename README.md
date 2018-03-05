@@ -29,3 +29,4 @@ Here is a list given in the order in which I made them
 - [Bogosort](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Bogosort)
 - [Password Generator](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Password_Generator)
 - [Middle Three Digits](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Middle_Three_Digits)
+- [Penneys Game](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Penneys_game)
