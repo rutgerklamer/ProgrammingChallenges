@@ -30,3 +30,4 @@ Here is a list given in the order in which I made them
 - [Password Generator](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Password_Generator)
 - [Middle Three Digits](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Middle_Three_Digits)
 - [Penneys Game](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Penneys_game)
+- [Random Number Distribution](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Random_Number_Distribution)
