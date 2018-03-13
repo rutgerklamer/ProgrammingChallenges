@@ -28,8 +28,8 @@ Here is a list given in the order in which I made them
 | [Thue_Morse](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Thue_Morse)| <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>
 | [Markov chain](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Markov_chain)| <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>
 | [Palindromic Number Checker in base2 and base3](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Palindromic_number_in_base2_and_base3)| <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>
-| [Bubblesort](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Bubblesort)| <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>
-| [Bogosort](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Bogosort)| <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>
+| [Bubblesort](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Bubblesort)| <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul>
+| [Bogosort](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Bogosort)| <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul>
 | [Password Generator](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Password_Generator)| <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>
 | [Middle Three Digits](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Middle_Three_Digits)| <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>
 | [Penneys Game](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Penneys_game)| <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>
