@@ -3,6 +3,8 @@ This page is for small little programming challenges I think don't deserve a sep
 
 I've mainly used rosetta code for the challenges but I didn't always follow the specifications since I thought they were stupid or unnecessary.
 
+I started this repo using only C++ but that got boring quite quickly, So I've decided to add more languages to the list
+
 Here is a list given in the order in which I made them
 
 | Challenge | C++ | Javascript |
