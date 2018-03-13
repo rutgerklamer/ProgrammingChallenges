@@ -9,7 +9,7 @@ Here is a list given in the order in which I made them
 
 | Challenge | C++ | Javascript | Python |
 | :-: | :-: | :-: | :-: |
-| [99 Bottles of Beer](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/99_Bottles_of_Beer)|<ul><li>[x] </li></ul> | <ul><li>[x] </li></ul>| <ul><li>[ ] </li></ul>
+| [99 Bottles of Beer](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/99_Bottles_of_Beer)|<ul><li>[x] </li></ul> | <ul><li>[x] </li></ul>| <ul><li>[x] </li></ul>
 | [Fibonacci Sequence](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Fibonacci_Sequence)|<ul><li>[x] </li></ul> | <ul><li>[x] </li></ul>| <ul><li>[x] </li></ul>
 | [ROT13 Encoder](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Rot13)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Palindrome Checker](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Palindrome)| <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
