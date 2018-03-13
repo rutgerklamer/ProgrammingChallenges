@@ -36,3 +36,4 @@ Here is a list given in the order in which I made them
 | [Middle Three Digits](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Middle_Three_Digits)| <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Penneys Game](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Penneys_game)| <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Random Number Distribution](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Random_Number_Distribution)| <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul>
+| [Reverse String](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Reverse_string)| <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[x] </li></ul>
