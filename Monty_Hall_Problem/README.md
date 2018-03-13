@@ -11,7 +11,7 @@ Example:
 | output |
 |  :-:   |
 |   STAYING 333577   |
-|   SWITCHING 66623   |
+|   SWITCHING 666423   |
 
 It's very interesting to see that switching leaves you with a much higher change of winning
 
