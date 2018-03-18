@@ -5,6 +5,11 @@ I've mainly used rosetta code for the challenges but I didn't always follow the 
 
 I started this repository using only C++ but that got boring quite quickly, So I've decided to add more languages to the list
 
+Some of those challenges aren't written very well, So don't use this to stud. But I think they are fine for inspiration.
+
+All challenges are public domain.
+
+
 Here is a list given in the order in which I made them
 
 | Challenge | C++ | Javascript | Python | Brainfuck |
