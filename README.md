@@ -17,7 +17,7 @@ Here is a list given in the order in which I made them
 | [99 Bottles of Beer](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/99_Bottles_of_Beer)|<ul><li>[x] </li></ul> | <ul><li>[x] </li></ul>| <ul><li>[x] </li></ul>| <ul><li>[x] </li></ul>
 | [Fibonacci Sequence](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Fibonacci_Sequence)|<ul><li>[x] </li></ul> | <ul><li>[x] </li></ul>| <ul><li>[x] </li></ul>| <ul><li>[x] </li></ul>
 | [ROT13 Encoder](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Rot13)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
-| [Palindrome Checker](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Palindrome)| <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Palindrome Checker](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Palindrome)| <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[x] </li></ul>| <ul><li>[ ] </li></ul>
 | [Fizz Buzz](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Fizz_Buzz)| <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[x] </li></ul>| <ul><li>[ ] </li></ul>
 | [Pig Latin](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Pig_Latin)| <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Pangram Checker](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Pangram)| <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
