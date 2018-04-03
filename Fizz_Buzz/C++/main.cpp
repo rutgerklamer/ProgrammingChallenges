@@ -2,11 +2,17 @@
 
 int main()
 {
-	for (int i = 0; i < 100; i++)
+	for (int i = 1; i < 100; i++)
 	{
-		std::cout << "\n" << (i % 3 == 0 && i % 5 == 0 && i != 0 ? "FizzBuzz" : (i % 3 == 0 && i != 0 ? "Fizz" : (i % 5 == 0 && i != 0 ? "Buzz" : "")));
-		if (i % 3 != 0 && i % 5 != 0 && i != 0)
-			std::cout << i;
+		std::string fizzbuzz;
+		if (i % 3 == 0)
+			fizzbuzz += "Fizz";
+		if (i % 5 == 0)
+			fizzbuzz += "Buzz";
+		if (fizzbuzz.size() > 0)
+			std::cout << fizzbuzz << "\n";
+		else
+			std::cout << i << "\n";
 	}
 	return 0;
 }
