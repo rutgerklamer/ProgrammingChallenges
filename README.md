@@ -9,8 +9,14 @@ Some of those challenges aren't written very well, So don't use this to study. B
 
 All challenges are public domain.
 
+Here is a list of Project Euler challenges:
 
-Here is a list given in the order in which I made them
+| Challenge | C++ | Javascript | Python | Brainfuck |
+| :-: | :-: | :-: | :-: | :-: |
+| [Multiples of 3 and 5](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/multiples_of_3_and_5)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+
+
+Here is a list of rosetta code challenges:
 
 | Challenge | C++ | Javascript | Python | Brainfuck |
 | :-: | :-: | :-: | :-: | :-: |
