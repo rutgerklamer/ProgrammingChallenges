@@ -1,11 +1,11 @@
 # Programming Challenges
-This page is for small little programming challenges I think don't deserve a seperate github page so I've made this repository to store them in one collection.
+This page is for small little programming challenges I think don't deserve a seperate GitHub page so I've made this repository to store them in one collection.
 
-I've mainly used rosetta code for the challenges but I didn't always follow the specifications since I thought they were stupid or unnecessary.
+I've mainly used rosetta code for the challenges but I didn't always follow the specifications since I thought they were stupid or unnecessary. For other challenges I've used project euler and other miscellaneous websites. 
 
-I started this repository using only C++ but that got boring quite quickly, So I've decided to add more languages to the list
+I started this repository using only C++ but that got boring quite quickly, So I've decided to add more languages to the list (More to come)
 
-Some of those challenges aren't written very well, So don't use this to stud. But I think they are fine for inspiration.
+Some of those challenges aren't written very well, So don't use this to study. But I think they are fine for inspiration.
 
 All challenges are public domain.
 
