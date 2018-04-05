@@ -20,6 +20,7 @@ Here is a list of Project Euler challenges:
 | [Smallest Multiple](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Smallest_Multiple)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Sum Of Squares](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Sum_Of_Squares)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [10001st Prime](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/10001st_prime)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Largest product in a series](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Largest_product_in_a_series)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 
 
 Here is a list of rosetta code challenges:
