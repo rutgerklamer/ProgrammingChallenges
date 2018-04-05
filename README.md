@@ -18,6 +18,7 @@ Here is a list of Project Euler challenges:
 | [Largest prime factor](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Largest_prime_factor)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Largest palindromic number](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Largest_Palindrome_Number)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Smallest Multiple](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Smallest_Multiple)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Sum Of Squares](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Sum_Of_Squares)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 
 
 Here is a list of rosetta code challenges:
