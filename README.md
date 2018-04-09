@@ -25,7 +25,9 @@ All challenges are public domain.
 | [Special Pythagorean triplet](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Special_Pythagorean_triplet)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Summation of primes](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Summation_of_primes)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Largest product in a grid](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Largest_product_in_a_grid)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Highly divisible triangular number](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Highly_divisible_triangular_number)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 
+Highly_divisible_triangular_number
 # Here is a list of rosetta code challenges:
 
 | Challenge | C++ | Javascript | Python | Brainfuck |
