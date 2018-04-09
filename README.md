@@ -9,7 +9,7 @@ Some of those challenges aren't written very well, So don't use this to study. B
 
 All challenges are public domain.
 
-Here is a list of Project Euler challenges:
+# Here is a list of Project Euler challenges:
 
 | Challenge | C++ | Javascript | Python | Brainfuck |
 | :-: | :-: | :-: | :-: | :-: |
@@ -26,7 +26,7 @@ Here is a list of Project Euler challenges:
 | [Summation of primes](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Summation_of_primes)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Largest product in a grid](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Largest_product_in_a_grid)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 
-Here is a list of rosetta code challenges:
+# Here is a list of rosetta code challenges:
 
 | Challenge | C++ | Javascript | Python | Brainfuck |
 | :-: | :-: | :-: | :-: | :-: |
