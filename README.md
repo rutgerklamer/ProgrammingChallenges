@@ -24,6 +24,7 @@ Here is a list of Project Euler challenges:
 | [Concealed Square](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Concealed_Square)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Special Pythagorean triplet](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Special_Pythagorean_triplet)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Summation of primes](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Summation_of_primes)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Largest product in a grid](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Largest_product_in_a_grid)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 
 Here is a list of rosetta code challenges:
 
