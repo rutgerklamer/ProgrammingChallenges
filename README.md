@@ -31,6 +31,7 @@ All challenges are public domain.
 | [Lattice paths](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Lattice_paths)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Power digit sum](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Power_digit_sum)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Number letter counts](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Number_letter_counts)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Maximum path sum I](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Maximum_path_sum_I)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 
 # Here is a list of rosetta code challenges:
 
