@@ -30,6 +30,7 @@ All challenges are public domain.
 | [Longest Collats sequence](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Longest_Collatz_sequence)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Lattice paths](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Lattice_paths)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Power digit sum](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Power_digit_sum)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Number letter counts](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Number_letter_counts)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 
 # Here is a list of rosetta code challenges:
 
