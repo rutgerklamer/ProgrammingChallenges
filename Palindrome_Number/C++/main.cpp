@@ -8,11 +8,8 @@ int main()
 		l++;
 	int da = 1;
 	int a = 0;
-	for (int i = 1; i <= l; i++)
-	{
+	for (int i = 1; i <= l; i++, da *= 10)
 		a += ((n / da) % 10) * (pow(10, l-i));
-		da = da * 10;
-	}
 	std::cout << (a == n ? "palindrome number" : "no palindrome number") << std::endl;
 	return 0;
 }
