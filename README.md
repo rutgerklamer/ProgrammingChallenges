@@ -34,6 +34,7 @@ All challenges are public domain.
 | [Maximum path sum I](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Maximum_path_sum_I)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Maximum path sum II](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Maximum_path_sum_II)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Counting Sundays](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Counting_Sundays)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Factorial digit sum](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Factorial_digit_sum)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 
 # Here is a list of rosetta code challenges:
 
