@@ -28,6 +28,7 @@ All challenges are public domain.
 | [Highly divisible triangular number](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Highly_divisible_triangular_number)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Large sum](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Large_sum)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Longest Collats sequence](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Longest_Collatz_sequence)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Lattice paths](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Lattice_paths)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 
 # Here is a list of rosetta code challenges:
 
