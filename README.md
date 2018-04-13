@@ -36,6 +36,7 @@ All challenges are public domain.
 | [Counting Sundays](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Counting_Sundays)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Factorial digit sum](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Factorial_digit_sum)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Amicable numbers](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Amicable_numbers)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Names scores](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Names_scores)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 
 # Here is a list of rosetta code challenges:
 
