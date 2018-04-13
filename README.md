@@ -16,8 +16,8 @@ All challenges are public domain.
 | [Multiples of 3 and 5](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/multiples_of_3_and_5)| 1 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Even fibonacci sequence](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Even_fibonacci_sequence)| 2 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Largest prime factor](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Largest_prime_factor)| 3 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
-| [Largest palindromic number](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Largest_Palindrome_Number)| 04 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
-| [Smallest Multiple](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Smallest_Multiple)|50 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Largest palindromic number](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Largest_Palindrome_Number)| 4 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Smallest Multiple](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Smallest_Multiple)| 5 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Sum Of Squares](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Sum_Of_Squares)| 6 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [10001st Prime](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/10001st_prime)| 7 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Largest product in a series](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Largest_product_in_a_series)| 8 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
@@ -36,6 +36,7 @@ All challenges are public domain.
 | [Amicable numbers](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Amicable_numbers)| 21 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Names scores](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Names_scores)| 22 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Non-abundant sums](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Non-abundant_sums)| 23 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Number spiral diagonals](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Number_spiral_diagonals)| 28 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Maximum path sum II](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Maximum_path_sum_II)| 67 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Concealed Square](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Concealed_Square)| 206 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 
