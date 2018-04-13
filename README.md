@@ -72,4 +72,4 @@ All challenges are public domain.
 | [Penneys Game](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Penneys_game)| <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Random Number Distribution](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Random_Number_Distribution)| <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul>
 | [Reverse String](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Reverse_string)| <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[x] </li></ul>
-| [Spiral matrix](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Spiral_matrix)| <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[x] </li></ul>
+| [Spiral matrix](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Spiral_matrix)| <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[] </li></ul>
