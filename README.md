@@ -35,8 +35,9 @@ All challenges are public domain.
 | [Factorial digit sum](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Factorial_digit_sum)| 20 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Amicable numbers](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Amicable_numbers)| 21 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Names scores](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Names_scores)| 22 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
-| [Concealed Square](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Concealed_Square)| 206 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Non-abundant sums](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Non-abundant_sums)| 23 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Maximum path sum II](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Maximum_path_sum_II)| 67 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Concealed Square](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Concealed_Square)| 206 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 
 # Here is a list of rosetta code challenges:
 
