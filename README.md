@@ -11,36 +11,36 @@ All challenges are public domain.
 
 # Here is a list of Project Euler challenges:
 
-| Challenge | C++ | Javascript | Python | Brainfuck |
-| :-: | :-: | :-: | :-: | :-: |
-| [Multiples of 3 and 5](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/multiples_of_3_and_5)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
-| [Even fibonacci sequence](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Even_fibonacci_sequence)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
-| [Largest prime factor](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Largest_prime_factor)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
-| [Largest palindromic number](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Largest_Palindrome_Number)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
-| [Smallest Multiple](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Smallest_Multiple)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
-| [Sum Of Squares](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Sum_Of_Squares)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
-| [10001st Prime](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/10001st_prime)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
-| [Largest product in a series](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Largest_product_in_a_series)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
-| [Concealed Square](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Concealed_Square)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
-| [Special Pythagorean triplet](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Special_Pythagorean_triplet)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
-| [Summation of primes](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Summation_of_primes)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
-| [Largest product in a grid](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Largest_product_in_a_grid)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
-| [Highly divisible triangular number](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Highly_divisible_triangular_number)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
-| [Large sum](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Large_sum)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
-| [Longest Collats sequence](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Longest_Collatz_sequence)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
-| [Lattice paths](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Lattice_paths)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
-| [Power digit sum](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Power_digit_sum)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
-| [Number letter counts](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Number_letter_counts)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
-| [Maximum path sum I](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Maximum_path_sum_I)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
-| [Maximum path sum II](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Maximum_path_sum_II)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
-| [Counting Sundays](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Counting_Sundays)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
-| [Factorial digit sum](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Factorial_digit_sum)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
-| [Amicable numbers](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Amicable_numbers)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
-| [Names scores](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Names_scores)|<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| Project euler challenge | Project euler problem # | C++ | Javascript | Python | Brainfuck |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| [Multiples of 3 and 5](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/multiples_of_3_and_5)| 1 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Even fibonacci sequence](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Even_fibonacci_sequence)| 2 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Largest prime factor](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Largest_prime_factor)| 3 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Largest palindromic number](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Largest_Palindrome_Number)| 04 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Smallest Multiple](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Smallest_Multiple)|50 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Sum Of Squares](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Sum_Of_Squares)| 6 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [10001st Prime](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/10001st_prime)| 7 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Largest product in a series](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Largest_product_in_a_series)| 8 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Special Pythagorean triplet](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Special_Pythagorean_triplet)| 9 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Summation of primes](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Summation_of_primes)| 10 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Largest product in a grid](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Largest_product_in_a_grid)| 11 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Highly divisible triangular number](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Highly_divisible_triangular_number)| 12 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Large sum](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Large_sum)| 13 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Longest Collats sequence](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Longest_Collatz_sequence)| 14 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Lattice paths](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Lattice_paths)| 15 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Power digit sum](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Power_digit_sum)| 16 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Number letter counts](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Number_letter_counts)| 17 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Maximum path sum I](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Maximum_path_sum_I)| 18 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Counting Sundays](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Counting_Sundays)| 19 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Factorial digit sum](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Factorial_digit_sum)| 20 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Amicable numbers](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Amicable_numbers)| 21 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Names scores](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Names_scores)| 22 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Concealed Square](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Concealed_Square)| 206 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [Maximum path sum II](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Maximum_path_sum_II)| 67 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 
 # Here is a list of rosetta code challenges:
 
-| Challenge | C++ | Javascript | Python | Brainfuck |
+| Rosetta code challenge | C++ | Javascript | Python | Brainfuck |
 | :-: | :-: | :-: | :-: | :-: |
 | [99 Bottles of Beer](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/99_Bottles_of_Beer)|<ul><li>[x] </li></ul> | <ul><li>[x] </li></ul>| <ul><li>[x] </li></ul>| <ul><li>[x] </li></ul>
 | [Fibonacci Sequence](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Fibonacci_Sequence)|<ul><li>[x] </li></ul> | <ul><li>[x] </li></ul>| <ul><li>[x] </li></ul>| <ul><li>[x] </li></ul>
