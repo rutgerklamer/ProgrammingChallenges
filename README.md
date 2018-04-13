@@ -36,6 +36,7 @@ All challenges are public domain.
 | [Amicable numbers](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Amicable_numbers)| 21 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Names scores](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Names_scores)| 22 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Non-abundant sums](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Non-abundant_sums)| 23 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| [1000-digit Fibonacci number](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/1000-digit_Fibonacci_number)| 25 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Number spiral diagonals](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Number_spiral_diagonals)| 28 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Maximum path sum II](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Maximum_path_sum_II)| 67 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | [Concealed Square](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Concealed_Square)| 206 |<ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
