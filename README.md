@@ -43,13 +43,6 @@ All challenges are public domain.
 | 67 | [Maximum path sum II](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Maximum_path_sum_II) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | 206 | [Concealed Square](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Concealed_Square) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 
-# Here is a list of Code Abbey challenges:
-
-| Code abbey #  | Code Abbey challenge | C++ | Javascript | Python | Brainfuck |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| 1 | [Sum of two](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Sum_of_two) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
-| 2 | [Sum in loop](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Sum_in_loop) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
-
 # Here is a list of rosetta code challenges:
 
 | Rosetta code challenge | C++ | Javascript | Python | Brainfuck |
