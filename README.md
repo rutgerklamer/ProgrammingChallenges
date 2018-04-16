@@ -40,6 +40,7 @@ All challenges are public domain.
 | 25 | [1000 - digit Fibonacci number](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/1000-digit_Fibonacci_number) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | 27 | [Number spiral diagonals](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Number_spiral_diagonals) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | 30 | [Digit fifth powers](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Digit_fifth_powers) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
+| 31 | [Coin sums](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Coin_sums) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | 67 | [Maximum path sum II](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Maximum_path_sum_II) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 | 206 | [Concealed Square](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Concealed_Square) | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>| <ul><li>[ ] </li></ul>
 
