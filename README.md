@@ -16,15 +16,14 @@ All challenges are public domain.
 | 1 | [Multiples of 3 and 5](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/multiples_of_3_and_5)
 | 2 | [Even fibonacci sequence](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Even_fibonacci_sequence)| C++ | *not calculated yet* |
 | 3 | [Largest prime factor](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Largest_prime_factor)| C++ | *not calculated yet* |
-| 4 | [Largest palindromic number](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Largest_Palindrome_Number) | C++ |
-*not calculated yet* |
+| 4 | [Largest palindromic number](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Largest_Palindrome_Number)| C++ | *not calculated yet* |
 | 5 | [Smallest Multiple](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Smallest_Multiple)| C++ | *not calculated yet* |
 | 6 | [Sum Of Squares](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Sum_Of_Squares)| C++ | *not calculated yet* |
 | 7 | [10001st Prime](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/10001st_prime)| C++ | *not calculated yet* |
 | 8 | [Largest product in a series](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Largest_product_in_a_series)| C++ | *not calculated yet* |
 | 9 | [Special Pythagorean triplet](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Special_Pythagorean_triplet)| C++ | *not calculated yet* |
 | 10 | [Summation of primes](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Summation_of_primes)| C++ | *not calculated yet* |
-| 11 | [Largest product in a grid](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Largest_product_in_a_grid)| C++ | *not calculated yet* |
+| 11 | [Largest product in a grid](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Largest_product_in_a_grid) | C++ | *not calculated yet* |
 | 12 | [Highly divisible triangular number](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Highly_divisible_triangular_number)| C++ | *not calculated yet* |
 | 13 | [Large sum](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Large_sum)| C++ | *not calculated yet* |
 | 14 | [Longest Collats sequence](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Longest_Collatz_sequence)| C++ | *not calculated yet* |
