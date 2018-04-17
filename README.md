@@ -13,7 +13,7 @@ All challenges are public domain.
 
 | Project euler problem #  | Project euler challenge | Language | time |
 | :-: | :-: | :-: | :-: |
-| 1 | [Multiples of 3 and 5](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/multiples_of_3_and_5)
+| 1 | [Multiples of 3 and 5](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/multiples_of_3_and_5)| C++ | *not calculated yet* |
 | 2 | [Even fibonacci sequence](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Even_fibonacci_sequence)| C++ | *not calculated yet* |
 | 3 | [Largest prime factor](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Largest_prime_factor)| C++ | *not calculated yet* |
 | 4 | [Largest palindromic number](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Largest_Palindrome_Number)| C++ | *not calculated yet* |
