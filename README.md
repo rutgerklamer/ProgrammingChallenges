@@ -23,27 +23,28 @@ All challenges are public domain.
 | 8 | [Largest product in a series](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Largest_product_in_a_series)| C++ | *0.0s* |
 | 9 | [Special Pythagorean triplet](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Special_Pythagorean_triplet)| C++ | *0.001s* |
 | 10 | [Summation of primes](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Summation_of_primes)| C++ | *0.931s* |
-| 11 | [Largest product in a grid](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Largest_product_in_a_grid) | C++ | *not calculated yet* |
-| 12 | [Highly divisible triangular number](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Highly_divisible_triangular_number)| C++ | *not calculated yet* |
-| 13 | [Large sum](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Large_sum)| C++ | *not calculated yet* |
-| 14 | [Longest Collats sequence](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Longest_Collatz_sequence)| C++ | *not calculated yet* |
-| 15 | [Lattice paths](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Lattice_paths)| C++ | *not calculated yet* |
-| 16 | [Power digit sum](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Power_digit_sum)| C++ | *not calculated yet* |
-| 17 | [Number letter counts](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Number_letter_counts)| C++ | *not calculated yet* |
-| 18 | [Maximum path sum I](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Maximum_path_sum_I)| C++ | *not calculated yet* |
-| 19 | [Counting Sundays](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Counting_Sundays)| C++ | *not calculated yet* |
-| 20 | [Factorial digit sum](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Factorial_digit_sum)| C++ | *not calculated yet* |
-| 21 | [Amicable numbers](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Amicable_numbers)| C++ | *not calculated yet* |
-| 22 | [Names scores](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Names_scores)| C++ | *not calculated yet* |
-| 23 | [Non - abundant sums](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Non-abundant_sums)| C++ | *not calculated yet* |
-| 24 | [Lexicographic permutations](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Lexicographic_permutations)| C++ | *not calculated yet* |
-| 25 | [1000 - digit Fibonacci number](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/1000-digit_Fibonacci_number)| C++ | *not calculated yet* |
-| 27 | [Number spiral diagonals](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Number_spiral_diagonals)| C++ | *not calculated yet* |
-| 30 | [Digit fifth powers](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Digit_fifth_powers)| C++ | *not calculated yet* |
-| 31 | [Coin sums](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Coin_sums)| C++ | *not calculated yet* |
-| 36 | [Double-base palindromes](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Double_base_palindromes)| C++ | *not calculated yet* |
-| 67 | [Maximum path sum II](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Maximum_path_sum_II)| C++ | *not calculated yet* |
-| 206 | [Concealed Square](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Concealed_Square)| C++ | *not calculated yet* |
+| 11 | [Largest product in a grid](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Largest_product_in_a_grid) | C++ | *0.001s* |
+| 12 | [Highly divisible triangular number](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Highly_divisible_triangular_number)| C++ | *2.107s* |
+| 13 | [Large sum](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Large_sum)| C++ | *0.0s* |
+| 14 | [Longest Collats sequence](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Longest_Collatz_sequence)| C++ | *0.848s* |
+| 15 | [Lattice paths](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Lattice_paths)| C++ | *0.0s* |
+| 16 | [Power digit sum](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Power_digit_sum)| C++ | *0.0s* |
+| 17 | [Number letter counts](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Number_letter_counts)| C++ | *0.014* |
+| 18 | [Maximum path sum I](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Maximum_path_sum_I)| C++ | *0.001s* |
+| 19 | [Counting Sundays](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Counting_Sundays)| C++ | *0.0s* |
+| 20 | [Factorial digit sum](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Factorial_digit_sum)| C++ | *0.0s* |
+| 21 | [Amicable numbers](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Amicable_numbers)| C++ | *0.729s* |
+| 22 | [Names scores](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Names_scores)| C++ | *0.147s* |
+| 23 | [Non - abundant sums](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Non-abundant_sums)| C++ | *0.912s* |
+| 24 | [Lexicographic permutations](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Lexicographic_permutations)| C++ | *1.031s* |
+| 25 | [1000 - digit Fibonacci number](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/1000-digit_Fibonacci_number)| C++ | *2.508s* |
+| 27 | [Number spiral diagonals](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Number_spiral_diagonals)| C++ | *0.22s* |
+| 30 | [Digit fifth powers](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Digit_fifth_powers)| C++ | *0.144s* |
+| 31 | [Coin sums](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Coin_sums)| C++ | *0.0s* |
+| 36 | [Double-base palindromes](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Double_base_palindromes)| C++ | *32.613s* |
+| 67 | [Maximum path sum II](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Maximum_path_sum_II)| C++ | *0.005s* |
+| 206 | [Concealed Square](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Concealed_Square)| C++ | *0.008s* |
+
 # Here is a list of rosetta code challenges:
 
 | Rosetta code challenge | C++ | Javascript | Python | Brainfuck |
