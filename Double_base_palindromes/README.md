@@ -6,4 +6,5 @@ Find the sum of all numbers, less than one million, which are palindromic in bas
 
 
 (Please note that the palindromic number, in either base, may not include leading zeros.)
+
 Project Euler for [Further info](https://projecteuler.net/problem=36)
