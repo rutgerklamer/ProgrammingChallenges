@@ -38,11 +38,12 @@ All challenges are public domain.
 | 23 | [Non - abundant sums](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Non-abundant_sums)| C++ | *0.912s* |
 | 24 | [Lexicographic permutations](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Lexicographic_permutations)| C++ | *1.031s* |
 | 25 | [1000 - digit Fibonacci number](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/1000-digit_Fibonacci_number)| C++ | *2.508s* |
-| 27 | [Number spiral diagonals](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Number_spiral_diagonals)| C++ | *0.22s* |
+| 28 | [Number spiral diagonals](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Number_spiral_diagonals)| C++ | *0.22s* |
 | 30 | [Digit fifth powers](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Digit_fifth_powers)| C++ | *0.144s* |
 | 31 | [Coin sums](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Coin_sums)| C++ | *0.0s* |
 | 36 | [Double-base palindromes](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Double_base_palindromes)| C++ | *32.613s* |
 | 67 | [Maximum path sum II](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Maximum_path_sum_II)| C++ | *0.005s* |
+| 106 | [Pandigital fibonacci ends](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Pandigital_fibonacci_ends)| C++ | *0.005s* |
 | 206 | [Concealed Square](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Concealed_Square)| C++ | *0.008s* |
 
 # Here is a list of rosetta code challenges:
