@@ -42,6 +42,7 @@ All challenges are public domain.
 | 30 | [Digit fifth powers](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Digit_fifth_powers)| C++ | *0.144s* |
 | 31 | [Coin sums](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Coin_sums)| C++ | *0.0s* |
 | 36 | [Double-base palindromes](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Double_base_palindromes)| C++ | *32.613s* |
+| 48 | [Self powers](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Self_powers)| C++ | *Not calclated yet* |
 | 67 | [Maximum path sum II](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Maximum_path_sum_II)| C++ | *0.005s* |
 | 106 | [Pandigital fibonacci ends](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Pandigital_fibonacci_ends)| C++ | *0.005s* |
 | 206 | [Concealed Square](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Concealed_Square)| C++ | *0.008s* |
