@@ -44,7 +44,7 @@ All challenges are public domain.
 | 36 | [Double-base palindromes](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Double_base_palindromes)| C++ | *32.613s* |
 | 48 | [Self powers](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Self_powers)| C++ | *Not calclated yet* |
 | 67 | [Maximum path sum II](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Maximum_path_sum_II)| C++ | *0.005s* |
-| 106 | [Pandigital fibonacci ends](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Pandigital_fibonacci_ends)| C++ | *0.005s* |
+| 106 | [Pandigital fibonacci ends](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Pandigital_fibonacci_ends)| C++ | *9521.58s* |
 | 206 | [Concealed Square](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Concealed_Square)| C++ | *0.008s* |
 
 # Here is a list of rosetta code challenges:
