@@ -2,14 +2,12 @@
 
 int main()
 {
-	int b = 0;
+	int b, sum = b = 0;
 	int a = 1;
-	int sum = b;
-	while (a < 4000000) {
-		a += b;
-		b = a - b;
+	while ((a+=b) < 4000000) {
 		if (a % 2 == 0)
 			sum += a;
+		b = a - b;
 	}
 	std::cout << sum;
 	return 0;
