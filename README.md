@@ -16,7 +16,7 @@ All challenges are public domain.
 | 1 | [Multiples of 3 and 5](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/multiples_of_3_and_5)| C++ | *0.0s* |
 | 2 | [Even fibonacci sequence](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Even_fibonacci_sequence)| C++ | *0.0s* |
 | 3 | [Largest prime factor](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Largest_prime_factor)| C++ | *0.067s* |
-| 4 | [Largest palindromic number](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Largest_Palindrome_Number)| C++ | *0.373s* |
+| 4 | [Largest palindromic number](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Largest_Palindrome_Number)| C++ | *0.026s* |
 | 5 | [Smallest Multiple](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Smallest_Multiple)| C++ | *0.808s* |
 | 6 | [Sum Of Squares](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/Sum_Of_Squares)| C++ | *0.0s* |
 | 7 | [10001st Prime](https://github.com/rutgerklamer/ProgrammingChallenges/tree/master/10001st_prime)| C++ | *0.017s* |
